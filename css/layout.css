@@ -211,9 +211,8 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background-color: grey;
-   height : 100%;
-   width : 100%;
+   background-color: #e6e6ff;
+   background-size: auto;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
