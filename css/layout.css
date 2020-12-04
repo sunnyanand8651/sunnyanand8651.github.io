@@ -212,8 +212,9 @@ ul#nav li.current a { color: #F06000; }
 
 #about {
    background-color: #e6e6ff;
-   background-size: auto;
+   background-size: 1920px 1080px;
    padding-top: 96px;
+   padding-bottom: 66px;
    overflow: hidden;
 }
 
